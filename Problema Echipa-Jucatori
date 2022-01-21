@@ -1,5 +1,6 @@
-Scopul problemei e de a realiza echipe de fotbal,iar pentru fiecare echipa se lanseaza un form nou pentru a introduce informatiile despre un jucator nou.Detaliile despre fiecare
-jucator vor fi afisate in partea dreapta a formului principal. Pentru a accesa formul principal,trebuie mai intai introdusa parola si numele de utilizator(admin,admin).
+Scopul problemei e de a realiza echipe de fotbal,iar pentru fiecare echipa se lanseaza un form nou pentru a introduce informatiile despre un jucator nou.Detaliile despre 
+fiecare jucator vor fi afisate in partea dreapta a formului principal. Pentru a accesa formul principal,trebuie mai intai introdusa parola si numele de 
+utilizator(admin,admin).
 
 Codul pentru formalurul cu user-ul si parola:
 
